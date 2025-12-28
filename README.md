@@ -101,10 +101,10 @@ This project analyzes NYC traffic collision data using **PostgreSQL** to uncover
 ## Recommendations
 - Prioritize **winter road safety interventions**, including enforcement and public awareness campaigns during January–March.
 - Target **weekday afternoon rush hours** with congestion management and traffic enforcement strategies.
-- Improve safety on **high-risk corridors** such as Belt Parkway through speed controls and monitoring.
+- Improve safety on **high risk corridors** such as Belt Parkway through speed controls and monitoring.
 - Strengthen **distracted driving enforcement and education**, given its dominance as a contributing factor.
 - Enhance **fatal crash reporting standards** to reduce reliance on “Unspecified” contributing factors.
-- Expand **pedestrian-focused safety measures**, including traffic calming, safer crossings and speed enforcement.
+- Expand **pedestrian focused safety measures**, including traffic calming, safer crossings and speed enforcement.
 
 ---
 
