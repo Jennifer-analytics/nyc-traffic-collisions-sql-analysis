@@ -116,6 +116,6 @@ This project analyzes NYC traffic collision data using **PostgreSQL** to uncover
 ---
 
 ## Project Files
-- `/sql` – SQL scripts used for data cleaning and analysis  
-- `/images` – Query output screenshots  
-- `README.md` – Project documentation
+- [sql/](./sql) — SQL scripts used for data cleaning and analysis  
+- [images/](./images) — Query output screenshots  
+- [README.md](./README.md) — Project documentation
