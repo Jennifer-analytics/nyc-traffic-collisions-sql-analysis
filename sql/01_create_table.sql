@@ -1,0 +1,20 @@
+CREATE TABLE nyc_collisions (
+    collision_id BIGINT PRIMARY KEY,
+    date DATE,
+    time TIME,
+    borough VARCHAR(50),
+    street_name VARCHAR(255),
+    cross_street VARCHAR(255),
+    latitude DECIMAL(9,6),
+    longitude DECIMAL(9,6),
+    contributing_factor VARCHAR(255),
+    vehicle_type VARCHAR(255),
+    persons_injured INT,
+    persons_killed INT,
+    pedestrians_injured INT,
+    pedestrians_killed INT,
+    cyclists_injured INT,
+    cyclists_killed INT,
+    motorists_injured INT,
+    motorists_killed INT
+);
